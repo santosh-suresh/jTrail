@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20131213T033000Z
+DTEND:20131213T040000Z
+DTSTAMP:20131007T061758Z
+ORGANIZER;CN='Alan Biller':mailto:events+oracle+oowretail2013+22+partner+d5
+ ytsy_55ifgema5miki6g@testing-events.jifflenow.com
+UID:8265a84b189d8d228eea49c74dd3ca4d
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Soumya
+  Ambiti;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Declining from gcal for right pe
+ rson this time. Sorry for the earlier one Shyam.":mailto:ambiti.soumya@gmai
+ l.com
+CREATED:20131006T202057Z
+DESCRIPTION:Oracle Open World Retail – “Delhi wala’s special event”  Meetin
+ g. Please refer to your meeting details below.\n\nMeeting Details:\nMeeting
+  with: All clients - Decline - Reschedule - Accept (Mtg ID-22)\nDate: Frida
+ y\, Dec 13\, 2013\nTime: 09:00 - 09:30\nEvent Timezone: Indian Standard Tim
+ e (IST)\nLocation: Community center\n\nParticipants:\nCompany: Oracle\nName
+ : Sowmya Ambiti\nTitle: QA\nEmail: sowmya.ambiti@jifflenow.com\nPhone: 1323
+ 24234\n\nCompany: Microsoft\nName: Mac Outlook Customer\nTitle: Test User\n
+ Email: jifflemacoutlook.2011@gmail.com\nPhone: 7656453434\n\nCompany: Jiffl
+ e Inx\nName: Soumya Ambiti\nTitle: QA\nEmail: ambiti.soumya@gmail.com\nPhon
+ e: 12321312\n\nCompany: Jiffle\nName: Yahoo! Customer\nTitle: Test User\nEm
+ ail: jiffle_y@yahoo.co.in\nPhone: 6574563453\n\nCompany: Oracle\nName: Alan
+  Biller\nTitle: Sales\nEmail: alan@jifflenow.net\nPhone: 13233434\n\n
+LAST-MODIFIED:20131007T061758Z
+LOCATION:Community center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Oracle Open World Retail – “Delhi wala’s special event”: Meeting Or
+ acle/All clients - Decline - Reschedule - Accept (Mtg ID-22)
+TRANSP:OPAQUE
+BEGIN:VALARM
+
+TRIGGER:-PT30M
+
+END:VALARM
+END:VEVENT
+END:VCALENDAR

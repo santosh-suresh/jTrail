@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20131211T040000Z
+DTEND:20131211T043000Z
+DTSTAMP:20131007T112106Z
+ORGANIZER;CN='Sam Andersen':mailto:events+oracle+oowretail2013+25+user+lnaa
+ orh-z50tlodsdo8pug@testing-events.jifflenow.com
+UID:5306a5832c62f54e145b0ce56b6a8dc4
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Shyam
+ Sundar C S;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Thanks you mario. But our pri
+ ncess is in another castle. Perhaps another time dude!\n\nThink of our good
+  &#39\;ol times.":mailto:shyamsundar.cs@jifflenow.com
+CREATED:20131007T014739Z
+DESCRIPTION:Oracle Open World Retail â<80><93> â<80><9c>Delhi walaâ<80><99>s special eventâ<80><9d>  Meetin
+ g. Please refer to your meeting details below.\n\nMeeting Details:\nMeeting
+  with: AMW (Mtg ID-25)\nDate: Wednesday\, Dec 11\, 2013\nTime: 09:30 - 10:0
+ 0\nEvent Timezone: Indian Standard Time (IST)\nLocation: Contact Front Desk
+  for room information\n\nParticipants:\nCompany: Oracle\nName: Shyam Sundar
+  CS\nTitle: Executive\nEmail: shyamsundar.cs@jifflenow.com\nPhone: 97890637
+ 12\n\nCompany: Mannar & Company\nName: Ramesh The Other\nTitle: As Customer
+ \nEmail: ramesh.rajamani@jifflenow.com\nPhone: 89999323\n\nCompany: Mannaru
+ \nName: Ramos Rasamani\nTitle: VP\nEmail: rums1976@yahoo.com\nPhone: 849984
+ 9393\n\nCompany: Mama Company\nName: Sham E Sundar\nTitle: Mr. Coimbatore\n
+ Email: csshyamsundar@gmail.com\nPhone: 93409340349\n\nCompany: Oracle\nName
+ : Pista Dadha\nTitle: Thala\nEmail: pista@jifflehq.net\nPhone: 840203934\n\
+ nCompany: Oracle\nName: Sam Andersen\nTitle: Sales Lead\nEmail: sam@jiffleh
+ q.net\nPhone: 95939334\n\n
+ LAST-MODIFIED:20131007T112106Z
+LOCATION:Contact Front Desk for room information
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Oracle Open World Retail â<80><93> â<80><9c>Delhi walaâ<80><99>s special eventâ<80><9d>: Meeting Or
+ acle/AMW (Mtg ID-25)
+TRANSP:OPAQUE
+BEGIN:VALARM
+
+TRIGGER:-PT30M
+
+END:VALARM
+END:VEVENT
+END:VCALENDAR

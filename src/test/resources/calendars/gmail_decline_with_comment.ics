@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20131212T063000Z
+DTEND:20131212T070000Z
+DTSTAMP:20131003T054621Z
+ORGANIZER;CN='Alan Biller':mailto:events+oracle+oowretail2013+14+partner+d5
+ ytsy_55ifgema5miki6g@testing-events.jifflenow.com
+UID:d5yTsy_55IfgEmA5MiKi6g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Soumya
+  Ambiti;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Declining from gcal":mailto:amb
+ iti.soumya@gmail.com
+CREATED:20131001T023110Z
+DESCRIPTION:Oracle Open World Retail – “Delhi wala’s special event”  Meetin
+ g. Please refer to your meeting details below.\n\nMeeting Details:\nMeeting
+  with: Mac Outlook and Gmail calendar testing (Mtg ID-14)\nDate: Thursday\,
+  Dec 12\, 2013\nTime: 12:00 - 12:30\nEvent Timezone: Indian Standard Time (
+ IST)\nLocation: Contact Front Desk for room information\n\nParticipants:\nC
+ ompany: Oracle\nName: JiffleOutlook 2010\nTitle: Analyst\nEmail: jiffleoutl
+ ook.2010@gmail.com\nPhone: 242342344\n\nCompany: Jiffle Inx\nName: Soumya A
+ mbiti\nTitle: QA\nEmail: ambiti.soumya@gmail.com\nPhone: 12321312\n\nCompan
+ y: Oracle\nName: Alan Biller\nTitle: Sales\nEmail: alan@jifflenow.net\nPhon
+ e: 13233434\n\n
+LAST-MODIFIED:20131003T054621Z
+LOCATION:Contact Front Desk for room information
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Oracle Open World Retail – “Delhi wala’s special event”: Meeting Or
+ acle/Mac Outlook and Gmail calendar testing (Mtg ID-14)
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
